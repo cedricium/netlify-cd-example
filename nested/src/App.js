@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+          This site is hosted on GitHub and deployed using Netlify.
+	</p>
         <a
           className="App-link"
           href="https://reactjs.org"
