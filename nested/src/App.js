@@ -12,11 +12,11 @@ function App() {
 	</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://cedric.tech/blog/deploying-react-app-with-netlify/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn how it was done
         </a>
       </header>
     </div>
